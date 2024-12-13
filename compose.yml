@@ -1,0 +1,18 @@
+services:
+    registration:
+        image: transfact:latest
+        build:
+          context: ./container
+          dockerfile: Dockerfile
+        container_name: singleCell_p
+        volumes:
+          - ./:/home/work
+        user: 'root'
+        ports:
+          - "8850:8888"
+        environment:
+          - ENABLE_JUPYTER_LAB=yes
+          - JUPYTER_TOKEN=123
+          - NB_USER=amore
+          - CHOWN_HOME=yes
+        working_dir: /home/work
