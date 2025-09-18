@@ -1,0 +1,37 @@
+Abbreviation,Full Name,Group Classification,Higher-Level Grouping,Classification
+EnFB,Endomysial Fibroblast,Fibroblasts,Connective Tissue,Connective Tissue
+FB,Fibroblast,Fibroblasts,Connective Tissue,Connective Tissue
+PnFB,Perineurial Fibroblast,Fibroblasts,Connective Tissue,Connective Tissue
+Tenocyte,Tenocyte,Tendon Cells,Connective Tissue,Connective Tissue
+B-cell,B Lymphocyte,Immune Cells,Immune System,Lymphoid
+B-plasma,Plasma B Cell,Immune Cells,Immune System,Lymphoid
+NK-cell,Natural Killer Cell,Immune Cells,Immune System,Lymphoid
+Hyb,Hybrid Myofiber,Myofibers,Muscle Cells,Muscle Cells
+MF-I,Myofiber Type I,Myofibers,Muscle Cells,Muscle Cells
+MF-II,Myofiber Type II,Myofibers,Muscle Cells,Muscle Cells
+MF-IIsc(fg),Myofiber Type II Subcluster (fast glycolytic),Myofibers,Muscle Cells,Muscle Cells
+MF-IIsn(fg),Myofiber Type II Subcluster (slow oxidative),Myofibers,Muscle Cells,Muscle Cells
+MF-Isc(fg),Myofiber Type I Subcluster (fast glycolytic),Myofibers,Muscle Cells,Muscle Cells
+MF-Isn(fg),Myofiber Type I Subcluster (slow oxidative),Myofibers,Muscle Cells,Muscle Cells
+SMC,Smooth Muscle Cell,Muscle Cells,Muscle Cells,Muscle Cells
+MuSC,Muscle Stem Cell,Stem Cells,Progenitor/Stem Cells,Muscle Cells
+cDC1,Conventional Dendritic Cell Type 1,Immune Cells,Immune System,Myeloid
+cDC2,Conventional Dendritic Cell Type 2,Immune Cells,Immune System,Myeloid
+Eosinophil,Eosinophil,Immune Cells,Immune System,Myeloid
+Macrophage,Macrophage,Immune Cells,Immune System,Myeloid
+Mast,Mast Cell,Immune Cells,Immune System,Myeloid
+Monocyte,Monocyte,Immune Cells,Immune System,Myeloid
+Neutrophil,Neutrophil,Immune Cells,Immune System,Myeloid
+pDC,Plasmacytoid Dendritic Cell,Immune Cells,Immune System,Myeloid
+Specialised MF,Specialized Macrophage,Immune Cells,Immune System,Myeloid
+T-cell,T Lymphocyte,Immune Cells,Immune System,Myeloid
+mSchwann,Myelinating Schwann Cell,Glial Cells,Nervous System,Nervous System
+nmSchwann,Non-Myelinating Schwann Cell,Glial Cells,Nervous System,Nervous System
+RBC,Red Blood Cell,Blood Cells,Circulatory System,Red Blood Cell
+Adipocyte,Adipocyte,Stromal Cells,Support Cells,Support Cells
+Mesothelium,Mesothelial Cell,Mesothelial Cells,Support Cells,Support Cells
+ArtEC,Arterial Endothelial Cell,Endothelial Cells,Vascular Cells,Vascular Cells
+CapEC,Capillary Endothelial Cell,Endothelial Cells,Vascular Cells,Vascular Cells
+LymphEC,Lymphatic Endothelial Cell,Endothelial Cells,Vascular Cells,Vascular Cells
+Pericyte,Pericyte,Perivascular Cells,Vascular Cells,Vascular Cells
+VenEC,Venous Endothelial Cell,Endothelial Cells,Vascular Cells,Vascular Cells
